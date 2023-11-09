@@ -1,4 +1,4 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,4 +6,9 @@
 img, input{
     width: 100%;
 }
- */
+#navmenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
